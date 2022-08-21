@@ -1,4 +1,4 @@
-## Olá!Eu sou a Viviane Mayumi Ogusko Saitou!🌸
+## Olá!Eu sou a Viviane Mayumi!🌸
 
 - 📚: Estou estudando Tecnologia em Análise e Desenvolvimento de Sistemas no Senac e 
 finalizando o curso Full Stack na Digital House!
