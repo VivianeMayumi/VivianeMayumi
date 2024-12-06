@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Viviane Mayumi!🌸
 
-- 📚: Graduanda em Análise e Desenvolvimento de Sistemas 
+- 📚: Graduada em Análise e Desenvolvimento de Sistemas 
 - 📚✅: Formada no curso Full Stack na Digital House!
 - 🌱: Atualmente estudando: Java, Javascript, HTML e CSS
 - 👩‍💻Pronome:ela/dela
